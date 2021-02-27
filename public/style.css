@@ -1,0 +1,16 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+html, body, #mapid {
+  height: 100%;
+  width: 100vw;
+}
+
+#timer{
+  position:fixed;
+  bottom: 0;
+  left:0;
+  z-index: 1000001;
+  font-weight: bold;
+}
